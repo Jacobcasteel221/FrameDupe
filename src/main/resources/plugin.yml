@@ -1,7 +1,7 @@
 name: FrameDupe
 version: ${project.version}
 main: me.hexa.framedupe.FrameDupe
-api-version: 1.12.2
+api-version: 1.20.1
 authors: [ Hexa ]
 description: Plugin to dupe items when breaking an item frame based on probability
 commands:
